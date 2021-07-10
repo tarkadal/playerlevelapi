@@ -2,6 +2,7 @@
 
 ## GETs
 https://\<URL\>/players/all - returns an array of player/level json
+
 https://\<URL\>/players/get?name=\<name\> - returns a json of the player/level matching name
 
 ## POSTs
